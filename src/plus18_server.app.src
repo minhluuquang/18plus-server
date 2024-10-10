@@ -5,10 +5,11 @@
     {mod, {plus18_server_app, []}},
     {applications, [
         kernel,
-        stdlib
+        stdlib,
+        cowboy
     ]},
     {env, []},
     {modules, []},
     {licenses, ["Apache-2.0"]},
     {links, []}
- ]}.
+]}.

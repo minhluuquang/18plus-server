@@ -3,3 +3,5 @@ build:
 
 run:
 	rebar3 shell
+
+dev: build run
