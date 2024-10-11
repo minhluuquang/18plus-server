@@ -1,5 +1,5 @@
 {application, plus18_server, [
-    {description, "An OTP application"},
+    {description, "A simple server for 18plus discord channel"},
     {vsn, "0.1.0"},
     {registered, []},
     {mod, {plus18_server_app, []}},
