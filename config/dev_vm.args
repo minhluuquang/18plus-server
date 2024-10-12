@@ -1,0 +1,11 @@
+-sname plus18_server@localhost
+
+-setcookie plus18_server_cookie
+
++S 1
+
++C multi_time_warp
+
++sbwt none
+
++A30
